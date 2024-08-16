@@ -1,0 +1,24 @@
+{
+  "name": "vuejs3-blog-app-channel",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.8.3",
+    "moment": "^2.29.3",
+    "pinia": "^2.0.14",
+    "uuid": "^8.3.2",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
